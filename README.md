@@ -1,6 +1,6 @@
 # general programs repo
 
- $$ various programming projects $$ 
+	$$ various programming projects $$ 
 
 01. temperature converter
 02. calculate age in seconds
